@@ -1,6 +1,6 @@
 Simple Weather App
 
-This is a beginner friendly weather web app that fetches and displays the current weather conditions for Lubbock, Texas using the OpenWeatherMap API.
+This is a beginner friendly weather web app that fetches and displays the current weather conditions for Lubbock, Texas using the OpenWeatherMap API. Have Fun!
 
 ---
 
